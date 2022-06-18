@@ -1,7 +1,7 @@
 nerdpanda test case (entity)
 namespaceable test case 
-
-
+===
+nameable?
 ===
 namespaceable package=> (namespaceable class => get , set )
 
