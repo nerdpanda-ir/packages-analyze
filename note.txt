@@ -9,3 +9,10 @@ namespaceable package=> (namespaceable class => get , set )
 function test case (package)
 	(interface , trait ....)
 function property test case 
+
+===****====
+
+message repo ? 
+
+entity test case : 
+trait -> public function test_is_exist(){this->assertexist()}
