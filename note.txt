@@ -1,0 +1,11 @@
+nerdpanda test case (entity)
+namespaceable test case 
+
+
+===
+namespaceable package=> (namespaceable class => get , set )
+
+--=> 
+function test case (package)
+	(interface , trait ....)
+function property test case 
